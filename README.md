@@ -8,7 +8,7 @@ Trabajo individual o en parejas.
 
 ## Punto 1. (carpeta GoF-ChainOfRep-fileProc)
 
-DATAPROC® es una aplicación que hace análisis de datos estadísticos a partir de archivos de diferentes formatos. La aplicación actualmente soporta 4 (formatos) muy comunes, pero la idea es aumentar este número en el corto plazo. Para este requerimiento, esta solución cumple con el principio Abierto/Cerrado?. Revise el patrón Chain of Responsability (https://sourcemaking.com/design_patterns/chain_of_responsibility) y aplíquelo (en un nuevo diseño) y aplíquelo para cumplir con el patrón. 
+DATAPROC® es una aplicación que hace análisis de datos estadísticos a partir de archivos de diferentes formatos. La aplicación actualmente soporta 4 (formatos) muy comunes, pero la idea es aumentar este número en el corto plazo. Para este requerimiento, esta solución cumple con el principio Abierto/Cerrado?. Revise el patrón Chain of Responsability (https://sourcemaking.com/design_patterns/chain_of_responsibility) y aplíquelo (en un nuevo diseño).
 
 ![](img/Model1.png)
 

@@ -1,4 +1,10 @@
-## Escuela
+## Escuela Colombiana de ingeniería
+### Procesos de Desarrollo de Software
+### Principios de Diseño / S.O.L.I.D. / patrones GoF
+
+Trabajo individual o en parejas.
+##### Próximo martes: al menos los casos de prueba del punto 2 definidos e implementados.
+##### Jueves 2:30pm : ejercicio terminado.
 
 ## Punto 1. (carpeta GoF-ChainOfRep-fileProc)
 

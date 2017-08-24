@@ -56,6 +56,14 @@ Este sistema, aunque no es muy 'elegante' desde el punto de vista de su diseño,
 
 
 #### Criterios de evaluación:
+
+Parte I.
+* En el diseño hay correspondencia con el patrón comportamental _Chain of responsability_.
+* Se usó para el principio O/C: Los _handlers_ NO exigen un orden en particular, y la secuenciación de los mismos NO se realiza dentro de DataProcessor.
+* La implementación corresponde al diseño dado.
+
+Parte II.
+
 * La clase AutomatedLoanEvaluator queda abierta para extensión, cerrada para modificación, en lo que respecta a la incorporación de puntajes asociados a tipos de préstamo y a las reglas que descartan automáticamente las aplicaciones. 
 * Se implementa correctamente el patrón _Chain of responsability_ para el propósito anterior.
 * Se actualiza el diagrama de clases UML, haciendo uso correcto de los elementos del lenguaje (UML), evidenciando la equivalencia con el patrón antes indicado, y con correspondencia a lo implementado.
